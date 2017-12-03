@@ -1,11 +1,5 @@
 '''Simple inventory manager by: Khashayar Nariman.
 
-This is very simple data manager, i tried to use simple list to keep and
-manipulate data, for external database, i didn use CSV format or any module
-and database, so the external files are simple text files, i used 2 separate
-text files for load - save to and from the list in the program,for GUI i used
-tkinter, and pack instead of grid. the program need improvements so i'll
-appreciate any thoughts, ideas or advices '''
 
 # Importing our modules 1) tkinter for guipart 2) winsound for adding some beeps
 # 3) shutil for file operations 
